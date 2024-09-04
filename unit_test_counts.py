@@ -11,6 +11,7 @@ def find_counts(input_list: list) -> dict:
     
     return dict(counter)
 
+
 class TestFindCounts(unittest.TestCase):
 
     def test_boundary_condition(self):
