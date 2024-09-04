@@ -55,3 +55,7 @@ def find_counts(input_list: list) -> dict:
     return dict(counter)
 ```
 The above code snippet is using `Collections` library. `Collections` is a in built Python library contains more iterables, which are based on inbuilt python iterables, but for more performance and wide applications.
+
+> Desclaimer: No chat gpt or automatic code generator is used.
+## References
+1. https://docs.python.org/3/library/unittest.html
